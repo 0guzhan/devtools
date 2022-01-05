@@ -1,0 +1,4 @@
+kafka_2*
+kafka_2*/
+*.out
+pid.lst
