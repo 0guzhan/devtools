@@ -1,0 +1,9 @@
+#Organize Import Order
+#Tue Jul 26 13:37:30 EEST 2016
+6=javax
+5=java
+4=com
+3=org
+2=
+1=net.acargil
+0=\#
